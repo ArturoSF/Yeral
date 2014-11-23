@@ -1,5 +1,3 @@
-package unidad3;
-
 public class adivina
 {
   public static void main(String[] args)

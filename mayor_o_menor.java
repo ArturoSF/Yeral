@@ -1,4 +1,3 @@
-package unidad3;
 
 public class mayor_o_menor 
 {
